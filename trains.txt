@@ -1,0 +1,8 @@
+12853 = Bhopal - Rani Kamlapati - Hoshangabad - Itarsi - Sohagpur - Pipariya - Bankhedi - Gadarwara - Jabalpur
+12854 = Jabalpur - Gadarwara - Bankhedi - Pipariya - Sohagpur - Itarsi - Hoshangabad - Rani Kamlapati - Bhopal
+
+12062 = Jabalpur - Madan Mahal - Shridham - Pipariya - Itarsi - Hoshangabad - Rani Kamlapati
+12061 = Rani Kamlapati - Hoshangabad - Itarsi - Pipariya - Shridham - Madan Mahal - Jabalpur
+
+12001 = Rani Kamlapati - Bhopal - Lalitpur - Gwalior - Morena - Agra - Mathura - New Delhi
+12002 = New Delhi - Mathura - Agra - Morena - Gwalior - Lalitpur - Bhopal - Rani Kamlapati
